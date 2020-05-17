@@ -1,0 +1,13 @@
+G:\Docker-net core\App\bin\Debug\netcoreapp3.1\NetCore.Docker.exe
+G:\Docker-net core\App\bin\Debug\netcoreapp3.1\NetCore.Docker.deps.json
+G:\Docker-net core\App\bin\Debug\netcoreapp3.1\NetCore.Docker.runtimeconfig.json
+G:\Docker-net core\App\bin\Debug\netcoreapp3.1\NetCore.Docker.runtimeconfig.dev.json
+G:\Docker-net core\App\bin\Debug\netcoreapp3.1\NetCore.Docker.dll
+G:\Docker-net core\App\bin\Debug\netcoreapp3.1\NetCore.Docker.pdb
+G:\Docker-net core\App\obj\Debug\netcoreapp3.1\NetCore.Docker.csprojAssemblyReference.cache
+G:\Docker-net core\App\obj\Debug\netcoreapp3.1\NetCore.Docker.csproj.CoreCompileInputs.cache
+G:\Docker-net core\App\obj\Debug\netcoreapp3.1\NetCore.Docker.AssemblyInfoInputs.cache
+G:\Docker-net core\App\obj\Debug\netcoreapp3.1\NetCore.Docker.AssemblyInfo.cs
+G:\Docker-net core\App\obj\Debug\netcoreapp3.1\NetCore.Docker.dll
+G:\Docker-net core\App\obj\Debug\netcoreapp3.1\NetCore.Docker.pdb
+G:\Docker-net core\App\obj\Debug\netcoreapp3.1\NetCore.Docker.genruntimeconfig.cache
